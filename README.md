@@ -1,8 +1,7 @@
 <div align="center" class="grid cards" style="display: flex; align-items: center; justify-content: center; text-decoration: none;" markdown>
     <a href="https://www.linkedin.com/in/minhduong-thechosenone/">
-        <img src="assets/App/OrivietAerospaceLogo.png" alt="Logo" width="40%">
+        <img src="assets/App/AstrocelerateLogo-Branded.png" alt="Logo" width="75%">
     </a>
-    <img src="assets/App/AstrocelerateLogo.png" alt="Logo" width="40%">
 </div>
 
 
