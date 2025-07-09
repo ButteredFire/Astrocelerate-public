@@ -107,40 +107,40 @@ Astrocelerate made its first commit on November 28th, 2024. As of June 7th, 2025
 The following screenshots document the development of Astrocelerate.
 
 ### July 10th, 2025
-![2025-07-10](https://github.com/user-attachments/assets/fb0ea6af-8cf1-43de-9279-71a61d7c1744)
+![2025-07-10](https://github.com/user-attachments/assets/f86a19d1-0204-4aa8-9122-41ffcf0d268c)
 
 ### July 3rd, 2025
-![2025-07-03](https://github.com/user-attachments/assets/be22da3f-f431-42d8-ab0a-7d358e144a9e)
+![2025-07-03](https://github.com/user-attachments/assets/60805ea1-2385-41f6-97dd-79cd571188f0)
 
 ### June 21st - 22nd, 2025
-![2025-06-22](https://github.com/user-attachments/assets/c27da2fd-ae07-403f-96c3-36c6fb1297b7)
-![2025-06-21](https://github.com/user-attachments/assets/0b8aa252-3068-4da2-b433-3886e4e54c60)
+![2025-06-22](https://github.com/user-attachments/assets/2c5361d0-848e-479e-b3eb-a0c578d079ee)
+![2025-06-21](https://github.com/user-attachments/assets/7c4e388d-0296-4222-aa37-aa3e346985ca)
 
 ### June 8th, 2025
-![2025-06-08](https://github.com/user-attachments/assets/645da5cf-9c5b-44c2-aa0b-dfc4be91b824)
+![2025-06-08](https://github.com/user-attachments/assets/8b4ba3e0-a3b3-4434-83dc-818e1e4f1828)
 
 ### June 3rd, 2025
-![2025-06-03](https://github.com/user-attachments/assets/11605157-d576-4e81-a4e1-1356a1696cd4)
-![2025-06-03](https://github.com/user-attachments/assets/dd6024d3-3849-4048-b391-93b7ef03b0ae)
+![2025-06-03](https://github.com/user-attachments/assets/7757061d-c7f4-4e8a-9faf-d0fd595bcec1)
+![2025-06-03](https://github.com/user-attachments/assets/b9d7e9eb-0035-405f-bc4d-deff89e718b8)
 
 ### May 20th - 21st, 2025
-![2025-05-21](https://github.com/user-attachments/assets/8a92729e-3945-47cd-aa3a-69c8a8d73f0d)
-![2025-05-20](https://github.com/user-attachments/assets/2a31b5e5-0b75-41ee-8aea-68cc65536e8d)
+![2025-05-21](https://github.com/user-attachments/assets/190a28e6-0b11-4355-bdf6-54978e707660)
+![2025-05-20](https://github.com/user-attachments/assets/23634f9f-067f-4235-a932-015feccdfa0b)
 
 ### May 16th, 2025
-![2025-05-16](https://github.com/user-attachments/assets/bc5a983d-f2a5-40c2-8812-15edb9bc5ac2)
+![2025-05-16](https://github.com/user-attachments/assets/f5c2d98c-7b1b-4b93-a833-b132181dd948)
 
 ### May 14th, 2025
-![2025-05-14](https://github.com/user-attachments/assets/5d99422e-e6bf-4539-84af-b6a8eeedac7f)
+![2025-05-14](https://github.com/user-attachments/assets/22cfff2a-6a79-4b6f-a889-0931ed3235ec)
 
 ### May 4th, 2025
-![2025-05-04](https://github.com/user-attachments/assets/5e75e451-e4f2-4f9e-825f-2cb2edf9af55)
+![2025-05-04](https://github.com/user-attachments/assets/ef1fa152-f5c0-4e16-a6a5-40a53180fe14)
 
 ### April 1st, 2025
-![2025-04-01](https://github.com/user-attachments/assets/4df183fd-ec53-4ec0-a751-0016e6e23de3)
+![2025-04-01](https://github.com/user-attachments/assets/f7368b9e-8606-4182-a882-192753768ba5)
 
 ### March 17th, 2025
-![2025-03-17](https://github.com/user-attachments/assets/1fca2070-ff43-4595-bd6a-74c8c43ae982)
+![2025-03-17](https://github.com/user-attachments/assets/19f4eb20-e56b-4275-b877-eb5a6e027f51)
 
 ### December 9th, 2024 (Legacy Astrocelerate)
-![2024-12-09](https://github.com/user-attachments/assets/db1f0232-cab3-4022-95f8-75ab503b029c)
+![2024-12-09](https://github.com/user-attachments/assets/419ba7f0-8b80-4663-bb30-a6815ffc8af4)
