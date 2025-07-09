@@ -2,6 +2,8 @@
     <a href="https://www.linkedin.com/in/minhduong-thechosenone/">
         <img src="assets/App/AstrocelerateLogo-Branded.png" alt="Logo" width="75%">
     </a>
+    <p>Copyright © 2024-2025 Dương Duy Nhật Minh, D.B.A. Oriviet Aerospace. All Rights Reserved.</p>
+    </br>
 </div>
 
 
