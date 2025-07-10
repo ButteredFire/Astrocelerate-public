@@ -90,12 +90,12 @@ These principles are subject to change over time, as Astrocelerate (and I) becom
 ## Prerequisites
 - Vulkan SDK (Vulkan 1.2+)
 - Vcpkg dependency manager
+- CMake 3.20+
 - Python 3.9+
 - C++20
 
 ## Bootstrapping
-- Run `SetupDebug.*` to set up a Debug configuration, or `SetupRelease.*` to set up a Release configuration, according to your operating system.
-- Alternatively, you can manually run `GenerateDirectories.bat` to ensure file discovery is up-to-date, then run `scripts/Bootstrap.py` and follow on-screen instructions.
+Configuring and running Astrocelerate is currently unavailable: The prerequisite bootstrapping scripts are currently limited to the private repository. 
 
 
 # History
