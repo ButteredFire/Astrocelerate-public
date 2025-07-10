@@ -7,7 +7,7 @@
 </div>
 
 
-This is the public-facing repository of Astrocelerate, Vietnam's first ever orbital mechanics and spaceflight simulation engine.
+This is the public-facing repository of Astrocelerate, Vietnam's first ever orbital mechanics and spaceflight simulation engine, built to deliver sovereign aerospace capability through high-fidelity physics, Vulkan rendering, and modular C++ extensibility.
 For more detailed information about the project's goals, features, and design philosophy, please refer to this README.
 
 > [!NOTE]
@@ -34,12 +34,16 @@ For more detailed information about the project's goals, features, and design ph
 ---
 
 # About Astrocelerate
-Astrocelerate is a spaceflight simulation engine tailored to space missions, developed in C++ with the Vulkan graphics API. 
+Astrocelerate is Vietnam’s first high-performance orbital mechanics and spaceflight simulation engine, designed from the ground up to serve as a sovereign alternative to foreign aerospace software.
 
 ## Goal
-Astrocelerate aims to provide high-fidelity real-time and interactive visualizations with the accuracy of CPU-accelerated physics, the visual appeal and efficiency of GPU-accelerated rendering and parallelizable physics computing, and support for on-the-fly variable changes with real-time visual feedback.
+Developed in C++ with a Vulkan-based graphics pipeline and custom ECS architecture, Astrocelerate is engineered for real-time, physically accurate visualizations of satellite kinematics, launch trajectories, and maneuver simulations. But beyond technical performance, Astrocelerate stands for something far greater:
 
-Astrocelerate also aims to incorporate modern design principles, standards, and GUI into the workflow, making it appealing for both professional researchers and students alike.
+>The assertion that world-class aerospace tools can emerge from within Vietnam, built not by legacy contractors, but by a new generation of engineers who refuse to wait for permission.
+
+Its mission is to empower academic institutions, disaster-response planners, space technologists, and national defense researchers with a transparent, extensible, and self-owned simulation platform. But more than that, it represents technological sovereignty in a domain long dominated by external systems.
+
+Powered by Oriviet Aerospace. Grounded in Vietnam. Engineered for the stars.
 
 ## Vision
 ### Short-term vision (MVP)
