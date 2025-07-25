@@ -7,14 +7,9 @@
     </br>
 </div>
 
-<<<<<<< HEAD
+
 Đây là kho lưu trữ công khai của Astrocelerate, công cụ mô phỏng cơ học quỹ đạo và chuyến bay vũ trụ. Dự án được phát triển bởi người Việt cho người Việt, trong công cuộc xây dựng nền móng tự chủ công nghệ của quốc gia.
 Để biết thêm thông tin chi tiết về mục tiêu, tính năng và triết lý thiết kế của dự án, vui lòng tham khảo README này.
-=======
-
-This is the public-facing repository of Astrocelerate, Vietnam's first ever orbital mechanics and spaceflight simulation engine, built to deliver sovereign aerospace capability through high-fidelity physics, Vulkan rendering, and modular C++ extensibility.
-For more detailed information about the project's goals, features, and design philosophy, please refer to this README.
->>>>>>> c06336215027b49c955eb51378bfd677af6772c6
 
 > [!NOTE]
 > Mã nguồn của Astrocelerate hiện đang được duy trì trong một kho lưu trữ riêng tư để bảo vệ sở hữu trí tuệ cho mục đích học thuật.
@@ -39,7 +34,6 @@ For more detailed information about the project's goals, features, and design ph
 
 ---
 
-<<<<<<< HEAD
 # Giới thiệu
 Astrocelerate là công cụ mô phỏng cơ học quỹ đạo và chuyến bay vũ trụ hiệu suất cao đầu tiên được phát triển tại Việt Nam, nhằm nâng cao năng lực quốc gia và tiềm lực khoa học - công nghệ trong lĩnh vực Hàng không Vũ trụ và Thiên văn học.
 
@@ -47,19 +41,6 @@ Astrocelerate là công cụ mô phỏng cơ học quỹ đạo và chuyến bay
 Được phát triển bằng C++ với pipeline đồ họa dựa trên Vulkan và mẫu thiết kế phân phối và thành phần (Entity-Component-System), Astrocelerate được thiết kế để cung cấp hình ảnh trực quan theo thời gian thực, chính xác về mặt vật lý cho động học vệ tinh, quỹ đạo phóng và mô phỏng cơ động.
 
 Nhưng vượt xa hiệu suất kỹ thuật, Astrocelerate đại diện cho một điều vĩ đại hơn nhiều:
-=======
-# About Astrocelerate
-Astrocelerate is Vietnam’s first high-performance orbital mechanics and spaceflight simulation engine, designed from the ground up to serve as a sovereign alternative to foreign aerospace software.
-
-## Goal
-Developed in C++ with a Vulkan-based graphics pipeline and custom ECS architecture, Astrocelerate is engineered for real-time, physically accurate visualizations of satellite kinematics, launch trajectories, and maneuver simulations. But beyond technical performance, Astrocelerate stands for something far greater:
-
->The assertion that world-class aerospace tools can emerge from within Vietnam, built not by legacy contractors, but by a new generation of engineers who refuse to wait for permission.
-
-Its mission is to empower academic institutions, disaster-response planners, space technologists, and national defense researchers with a transparent, extensible, and self-owned simulation platform. But more than that, it represents technological sovereignty in a domain long dominated by external systems.
-
-Powered by Oriviet Aerospace. Grounded in Vietnam. Engineered for the stars.
->>>>>>> c06336215027b49c955eb51378bfd677af6772c6
 
 >Sự khẳng định rằng các công cụ hàng không vũ trụ đẳng cấp thế giới có thể bắt nguồn từ Việt Nam và trong bàn tay của người Việt, và được xây dựng không phải bởi các nhà thầu ngoại nước, mà bởi một thế hệ kỹ sư mới của Việt Nam.
 
