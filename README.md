@@ -1,4 +1,9 @@
 > [!NOTE]
+> This public-facing repository has been archived. The new Astrocelerate repository is available [here](https://github.com/ButteredFire/Astrocelerate/).
+> 
+> Kho lưu trữ công khai này đã được lưu trữ. Bạn có thể truy cập kho lưu trữ mới của Astrocelerate tại [đây](https://github.com/ButteredFire/Astrocelerate/).
+
+> [!NOTE]
 > This README is in Vietnamese. The English README can be read [here](README-EN.md).
 
 <div align="center" class="grid cards" style="display: flex; align-items: center; justify-content: center; text-decoration: none;" markdown>
